@@ -8,7 +8,7 @@ countdown app
 
 ![](https://img.shields.io/badge/Rishu%20srivastava-BCA-orange)
 
-# **countdown-app** [Live Link]
+# **countdown-app** [Live Link](https://app.netlify.com/sites/contdown-app/settings/general)
  >- Skills gained in this project
  >- Learned about dom manipulation
  >- learned about function
