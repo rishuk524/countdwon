@@ -1,0 +1,42 @@
+  .head h1 {
+    color: #aeb81a;
+    font-size: 40px;
+  }
+  .head{
+  margin-top:130px;
+  }
+  #text-area {
+    width: 400px;
+    height: 40px;
+    border-radius: 10px;
+    border: 2px solid black;
+    text-align: center;
+    font-size: 26px;
+    font-family: "Times New Roman", Times, serif;
+  }
+  .count-area {
+    font-size: 60px;
+    color: white;
+    font-weight: 700;
+  }
+  .btn {
+    width: 150px;
+    border-radius: 8px;
+    height: 50px;
+    font-size: 25px;
+    background-color: #051a74;
+    color: #fff;
+    font-weight: 900;
+    cursor: pointer;
+    border: none;
+  }
+  .btn:hover {
+    background-color: white;
+    color: black;
+    transition: 0.4s ease-in-out;
+  }
+  body {
+    text-align: center;
+    background-color: #0a658be2;
+    box-sizing: border-box;
+  }
